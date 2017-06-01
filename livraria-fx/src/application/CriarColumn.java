@@ -12,7 +12,7 @@ public class CriarColumn {
 	private String atributo;
 	
 	
-	aaa
+
 	
 	public  CriarColumn(String titulo, int largura, String atributo){
 		
