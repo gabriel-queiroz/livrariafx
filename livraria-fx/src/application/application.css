@@ -1,0 +1,76 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+#rotulo-nome{
+	
+	-fx-font-size: 30px;
+	-fx-color: red;
+}
+
+#vbox{
+	
+	-fx-padding: 70 0 0 10;
+	
+}
+
+.button{
+	-fx-translate-x : 575;
+	-fx-translate-y: 25;
+	-fx-background-color :linear-gradient(#61a2b1, #2A5058);
+	-fx-text-fill: white;
+	
+	
+}
+
+#button-fechar{
+	
+	-fx-translate-x : 350;
+	-fx-translate-y:25;
+	
+	-fx-background-color :linear-gradient(#61a2b1, #2A5058);
+	-fx-text-fill: white;
+	
+}
+
+#button-fechar:hover{
+	
+	-fx-background-color: red;
+	
+}
+
+.button:hover{
+	-fx-background-color: red;
+}
+
+#pro-label{
+	-fx-translate-x: 485;
+	-fx-translate-y: 30;
+	
+}
+
+#label-footer{
+	-fx-translate-x : 210;
+	-fx-translate-y: 480;
+	
+}
+#label-progresso2{
+	
+	-fx-translate-x : 10;
+	-fx-translate-y : 35;
+	
+}
+
+#label-carregando{
+	-fx-translate-x : 10;
+	-fx-translate-y : 35;
+	-fx-text-fill :red ;
+}
+#label-carregado{
+	-fx-translate-x : 10;
+	-fx-translate-y : 35;
+	-fx-text-fill :green ;
+	-fx-font-size: 20 ;
+	
+}
+
+
