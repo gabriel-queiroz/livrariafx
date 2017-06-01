@@ -11,6 +11,9 @@ public class CriarColumn {
 	private int largura;
 	private String atributo;
 	
+	
+	
+	
 	public  CriarColumn(String titulo, int largura, String atributo){
 		
 		this.titulo = titulo;
